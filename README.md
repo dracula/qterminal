@@ -29,6 +29,7 @@ Go to File then Preferences
 ![Pref](https://user-images.githubusercontent.com/96319944/232853823-d31e08e3-1ecc-459d-856d-4caed3b9ed2d.png)
 
 Now choose Dracula from the drop down menu in Color scheme
+And Apply it
 
 ![Dracula](https://user-images.githubusercontent.com/96319944/232854275-32c45486-3418-4b88-ac99-f314c6a9ae1e.png)
 
