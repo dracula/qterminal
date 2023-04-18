@@ -32,7 +32,7 @@ Now choose Dracula from the drop down menu in Color scheme
 
 ![Dracula](https://user-images.githubusercontent.com/96319944/232854275-32c45486-3418-4b88-ac99-f314c6a9ae1e.png)
 
-Enjoy 🧛🏻‍♂️
+Enjoy 🧛🏻‍♂️ on Kali
 
 ## Team
 
