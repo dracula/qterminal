@@ -1,6 +1,7 @@
 # Dracula for [Qterminal](https://www.kali.org/)
 
-> A dark theme for [Qterminal](https://www.kali.org/).
+>Dracula theme for [Qterminal](https://www.kali.org/).
+> 
 > Qterminal is the default terminal for [Kali Linux](https://www.kali.org/).
 
 ![Q](https://user-images.githubusercontent.com/96319944/232851910-2980c125-1d20-4016-ab86-330956910e44.png)
