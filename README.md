@@ -2,7 +2,8 @@
 
 > A dark theme for [Qterminal](https://www.kali.org/).
 
-![Screenshot](./screenshot.png)
+![Q](https://user-images.githubusercontent.com/96319944/232851910-2980c125-1d20-4016-ab86-330956910e44.png)
+
 
 ## Install
 
