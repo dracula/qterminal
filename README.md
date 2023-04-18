@@ -8,7 +8,29 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+## Step 1
+
+Simply download the dracula.colorscheme.
+
+[Dracula.colorscheme.zip](https://github.com/urrickhunt/Dracula-for-Qterminal/files/11264474/Dracula.colorscheme.zip)
+
+## Step 2
+
+Then copy it to /usr/share/qtermwidget5/color-schemes
+
+  sudo cp Dracula.colorscheme /usr/share/qtermwidget5/color-schemes
+
+## Step 3
+
+Now activate dracula theme in Qterminal.
+Go to File then Preferences
+
+![Pref](https://user-images.githubusercontent.com/96319944/232853823-d31e08e3-1ecc-459d-856d-4caed3b9ed2d.png)
+
+Now choose Dracula from the drop down menu in Color scheme
+
+![Dracula](https://user-images.githubusercontent.com/96319944/232854275-32c45486-3418-4b88-ac99-f314c6a9ae1e.png)
+
 
 ## Team
 
