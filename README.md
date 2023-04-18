@@ -1,6 +1,6 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Qterminal](https://www.kali.org/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Qterminal](https://www.kali.org/).
 
 ![Screenshot](./screenshot.png)
 
@@ -10,11 +10,11 @@ All instructions can be found at [draculatheme.com/foobar](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [urrickhunt](https://github.com/urrickhunt)                                               |
 
 ## Community
 
