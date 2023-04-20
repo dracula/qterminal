@@ -6,6 +6,7 @@
 
 ![Q](https://user-images.githubusercontent.com/96319944/232851910-2980c125-1d20-4016-ab86-330956910e44.png)
 
+![kali1](https://user-images.githubusercontent.com/96319944/233417441-816c5e08-6087-4e23-b762-cdc710ae328a.png)
 
 ## Install
 
