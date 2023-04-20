@@ -4,9 +4,9 @@
 > 
 > Qterminal is the default terminal for [Kali Linux](https://www.kali.org/).
 
-![kali1](https://user-images.githubusercontent.com/96319944/233417441-816c5e08-6087-4e23-b762-cdc710ae328a.png)
+![test1](https://user-images.githubusercontent.com/96319944/233419212-1c6f9956-fc76-4b62-ac40-557012ce2e6e.png)
 
-![kali2](https://user-images.githubusercontent.com/96319944/233417618-ed7ea98b-92cb-43be-b6e5-254cebb0fb4f.png)
+![neo1](https://user-images.githubusercontent.com/96319944/233419228-cefb7c02-f8b9-4d79-b710-0d5e3f127feb.png)
 
 ## Install
 
