@@ -27,6 +27,11 @@ Then copy it to /usr/share/qtermwidget5/color-schemes
 Now activate Dracula theme in Qterminal.
 Go to File then Preferences
 
+![pref1](https://user-images.githubusercontent.com/96319944/233420247-e3300234-3984-4ec0-b7a8-1c585c81c904.png)
+
+![pref2](https://user-images.githubusercontent.com/96319944/233420269-39c58625-8ba3-4a46-bc1f-29162a326653.png)
+
+
 ![Pref](https://user-images.githubusercontent.com/96319944/232853823-d31e08e3-1ecc-459d-856d-4caed3b9ed2d.png)
 
 Now choose Dracula from the drop down menu in Color scheme & Apply it
