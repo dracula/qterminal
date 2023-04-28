@@ -12,7 +12,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Install manually
 
-- Download using the [Dracula.colorscheme.zip](https://github.com/urrickhunt/Dracula-for-Qterminal/files/11264474/Dracula.colorscheme.zip) link or
+- Download using the [Dracula.colorscheme.zip](https://github.com/dracula/qterminal/files/11355344/Dracula.colorscheme.zip) link or
 - Download using the [GitHub `.zip` download](https://github.com/dracula/qterminal/archive/refs/heads/main.zip) option and unzip them.
 
 #### Activating theme
