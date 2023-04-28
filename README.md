@@ -14,7 +14,7 @@
 
 Simply download the dracula.colorscheme.
 
-[Dracula.colorscheme.zip](https://github.com/urrickhunt/Dracula-for-Qterminal/files/11264474/Dracula.colorscheme.zip)
+[Dracula.colorscheme.zip](https://github.com/dracula/qterminal/files/11355344/Dracula.colorscheme.zip)
 
 ## Step 2
 
