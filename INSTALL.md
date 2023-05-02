@@ -5,22 +5,19 @@
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```bash
-
-    git clone https://github.com/dracula/qterminal.git
-
+git clone https://github.com/dracula/qterminal.git
 ```
 
 #### Install manually
 
-- Download using the [Dracula.colorscheme.zip](https://github.com/dracula/qterminal/files/11355344/Dracula.colorscheme.zip) link or
-- Download using the [GitHub `.zip` download](https://github.com/dracula/qterminal/archive/refs/heads/main.zip) option and unzip them.
+Download using the [GitHub `.zip` download](https://github.com/dracula/qterminal/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
-1. Copy the theme to /usr/share/qtermwidget5/color-schemes
+1.  Copy the theme to `/usr/share/qtermwidget5/color-schemes`:
 
-        sudo cp Dracula.colorscheme /usr/share/qtermwidget5/color-schemes
+```bash
+sudo cp Dracula.colorscheme /usr/share/qtermwidget5/color-schemes
+```
 
-2. In Qterminal go to File > Preferences then choose Dracula from the drop down menu in Color scheme & Apply it
-     
-
+2.  In Qterminal go to: `File > Preferences`, then choose **Dracula** from the dropdown-menu in `Color scheme` and apply it!
