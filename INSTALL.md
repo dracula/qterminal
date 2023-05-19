@@ -10,7 +10,7 @@ git clone https://github.com/dracula/qterminal.git
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/qterminal/files/11513084/master.zip) option and unzip them.
+Download using the [GitHub `.zip` download](https://github.com/dracula/qterminal/archive/refs/heads/main.zip) option and unzip them.
 
 #### Activating theme
 
